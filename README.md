@@ -3,4 +3,4 @@ The proposed model uses video surveillance and CNN algorithms to monitor student
 # Documentation
 [EDITED MINI PROJECT REPORT.pdf](https://github.com/user-attachments/files/17706045/EDITED.MINI.PROJECT.REPORT.pdf)
 
-[Mini project.pdf](https://github.com/user-attachments/files/17706075/Mini.project.pdf)
+[Mini project.pptx](https://github.com/user-attachments/files/17706075/Mini.project.pdf)
